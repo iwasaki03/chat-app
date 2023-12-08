@@ -97,6 +97,7 @@ GEM
       warden (~> 1.2.3)
     diff-lcs (1.5.0)
     erubi (1.12.0)
+<<<<<<< HEAD
     factory_bot (6.4.2)
       activesupport (>= 5.0.0)
     factory_bot_rails (6.4.2)
@@ -105,13 +106,12 @@ GEM
     faker (3.2.2)
       i18n (>= 1.8.11, < 2)
     ffi (1.16.3)
+=======
+>>>>>>> parent of 63258b6 (Merge pull request #5 from iwasaki03/画像投稿機能の実装)
     globalid (1.2.1)
       activesupport (>= 6.1)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
-    image_processing (1.12.2)
-      mini_magick (>= 4.9.5, < 5)
-      ruby-vips (>= 2.0.17, < 3)
     importmap-rails (1.2.3)
       actionpack (>= 6.0.0)
       activesupport (>= 6.0.0)
@@ -134,7 +134,6 @@ GEM
     marcel (1.0.2)
     matrix (0.4.2)
     method_source (1.0.0)
-    mini_magick (4.12.0)
     mini_mime (1.1.5)
     minitest (5.20.0)
     msgpack (1.7.2)
@@ -204,6 +203,7 @@ GEM
       actionpack (>= 5.2)
       railties (>= 5.2)
     rexml (3.2.6)
+<<<<<<< HEAD
     rspec-core (3.12.2)
       rspec-support (~> 3.12.0)
     rspec-expectations (3.12.3)
@@ -223,6 +223,8 @@ GEM
     rspec-support (3.12.1)
     ruby-vips (2.2.0)
       ffi (~> 1.12)
+=======
+>>>>>>> parent of 63258b6 (Merge pull request #5 from iwasaki03/画像投稿機能の実装)
     rubyzip (2.3.2)
     selenium-webdriver (4.10.0)
       rexml (~> 3.2, >= 3.2.5)
@@ -273,12 +275,14 @@ DEPENDENCIES
   capybara
   debug
   devise
+<<<<<<< HEAD
   factory_bot_rails
   faker
   image_processing (~> 1.2)
+=======
+>>>>>>> parent of 63258b6 (Merge pull request #5 from iwasaki03/画像投稿機能の実装)
   importmap-rails
   jbuilder
-  mini_magick
   mysql2 (~> 0.5)
   pry-rails
   puma (~> 5.0)
